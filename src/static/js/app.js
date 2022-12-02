@@ -52,7 +52,7 @@ function TodoListCard() {
     return (
         <React.Fragment>
             <p className="text-center">Hello Kapustina</p>
-            <p className="text-center">19-11-2022 18:30</p>
+            <p className="text-center">02-12-2022 14:10</p>
         </React.Fragment>
     );
 }
